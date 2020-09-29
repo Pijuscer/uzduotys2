@@ -1,0 +1,52 @@
+*{
+	box-sizing: border-box;
+}
+
+.container{
+	width: 70%;
+	margin: 0 auto;
+}
+
+header nav ul li, main article, main h1 div{
+	display: inline-block;
+	background-color: #ffffff;
+	margin: 0 auto;
+}
+
+main article h2, h3, h4, p{
+	text-align: center;
+}
+nav{
+	text-align: center;
+}
+main{
+	background-color: #6e7f80;
+}
+
+main article i{
+	text-align: center;
+}
+main h1{
+	text-align: center;
+	color: #fff;
+}
+
+main div input {
+	background-color: #b2beb5;
+	text-align: center;
+	
+}
+
+main div{
+	text-align: center;
+}
+
+main  i{
+	width: 40px;
+}
+
+main article{
+	width: 250px;
+	padding: 10px;
+	
+}
